@@ -1,0 +1,17 @@
+To fix the module issue,
+
+Step 1,
+If there are multiple versions of python installed on your machine uninstall all of them. Microsoft Store python 
+conflicts with Python.org's version. (type apps in search bar and uninstall it through that)
+
+Step 2,
+Remove the PATHS if they are still there.
+
+Step 3,
+download the latest python version from Python.org
+
+Step 4, 
+python -m pip install Django
+
+Step 5,
+create your project
