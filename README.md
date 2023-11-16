@@ -1,3 +1,5 @@
 # Python_Website
 
-Using Python, django, DB.Website.lite
+Language: Python and HTML
+Frameworks: Django and Bootstrap
+Database: DB.Website.lite
